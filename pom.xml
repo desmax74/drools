@@ -74,7 +74,6 @@
     <module>drools-workbench-models</module>
     <module>drools-test-coverage</module>
     <module>drools-scenario-simulation</module>
-    <module>drools-ha</module>
   </modules>
 
   <dependencyManagement>
